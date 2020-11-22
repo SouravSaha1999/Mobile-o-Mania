@@ -6,3 +6,6 @@ Mobile-o-Mania is an ecommerce website which consists of following parts -
 ▪	Advanced PHP to add security features
 ▪	WAMP server (for creating database and handling .php files)
 ▪	MySQLi method in php was used to connect MySQL database through the backend. 
+
+
+LINK to the Website : http://mobile-o-mania.epizy.com/
